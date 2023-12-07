@@ -76,7 +76,7 @@ export default {
 
       // Xử lý dữ liệu sau khi biểu mẫu được gửi
       const newStep = {
-        focusTarget: this.focusTarget,
+        focusTarget: this.focusTarget, 
         mustDo: this.mustDo,
         deadline: this.deadline,
       };
